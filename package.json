@@ -1,0 +1,17 @@
+{
+  "name": "riot-xmpp-mitm",
+  "version": "1.0.0",
+  "description": "Riot XMPP man-in-the-middle",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Burak <burak@burak.fr>",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "cli-highlight": "^2.1.11",
+    "compression": "^1.7.4",
+    "connect": "^3.7.0"
+  }
+}
